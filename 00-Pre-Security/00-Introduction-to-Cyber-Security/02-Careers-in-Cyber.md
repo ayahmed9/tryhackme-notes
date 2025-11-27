@@ -86,3 +86,15 @@ Jobs in cybersecurity range from
 - Post-incident reporting
 - Preparation for future attacks
   - Lessons learned and adaptations
+
+## Digital Forensics Examiner
+- Responsible for using digital forensics to investigate incidents and crimes
+  - "Digital detective" of the cyber world
+    - Analyze incidents &ndash; (such as policy violations)
+
+### Responsibilities
+- Collect digital evidence while observing legal procedures
+- Analyze digital evidence to find answers related to the case
+- Document your findings and report on the case
+
+## Malware Analyst

@@ -110,7 +110,7 @@ To communicate and maintain order, devices must be both indentifying and identif
 - 12-character hexadecimal/48-bit number
   - Hexadecimal &ndash; base 16 numbering system used in computing to represent numbers
   - Split into two halves
-    - First half (6 characters) represent parent company (creator/vendor of network interface)
+    - First half (6 characters) represent parent (creator/vendor of network interface)
     - Second half (6 characters) is a unique number
   - Separated by colons
   - Ex: a4:c3:f0:85:ac:2d
@@ -127,3 +127,21 @@ To communicate and maintain order, devices must be both indentifying and identif
       - Whitelisting/blacklisting
       - Prevents unauthorized access
       - Restricts usage
+
+## Ping (ICMP)
+- Uses Internet Control Message Protocl (ICMP) packets
+  - Determines the performance of a connection
+    - Existent/nonexistent
+    - Reliability
+- Measures time taken for ICMP packets traveling between devices
+  - Using ICMP's echo pachet and ICMP's echo reply packet from target device
+- Can be performed against dveices on networks or resources (*like websites*)
+- Preinstalled on most operating systems (OSs)
+  - Linux
+    - Command line operating system
+    - Mulitple operating systems based on Linux
+  - Windows
+  - macOS
+  - Android
+  - *etc.*
+- Syntax = ping <IP address/website URL>
